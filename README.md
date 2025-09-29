@@ -12,7 +12,7 @@ The goal is to:
 
 ## Dataset
 
-The dataset can be downloaded from [Kaggle](https://www.kaggle.com/) (Coffee Shop Transactions Dataset).
+The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/geraldooizx/g-coffee-shop-transaction-202307-to-202506) (Coffee Shop Transactions Dataset).
 Make sure to extract the dataset into the `data/` folder before running the notebook.
 The dataset includes:
 
@@ -35,11 +35,7 @@ The dataset includes:
 
 2. Install dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   If you don’t have `requirements.txt`, install the main packages:
+   Install the main packages:
 
    ```bash
    pip install pyspark pandas matplotlib seaborn jupyter
@@ -61,8 +57,3 @@ The dataset includes:
 
 3. Run the cells sequentially to reproduce the analysis and visualizations.
 
----
-
-## Author
-
-Your Name
