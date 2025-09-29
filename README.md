@@ -29,8 +29,8 @@ The dataset includes:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/coffee-shop-analysis
-   cd coffee-shop-analysis
+   git clone https://github.com/yyw1503-wq/Assessment
+   cd Assessment
    ```
 
 2. Install dependencies:
